@@ -36,6 +36,7 @@
     "fs-extra": "0.30.0",
     "lodash": "4.17.11",
     "merge-defaults": "0.1.4",
-    "mime": "2.3.1"
+    "mime": "2.3.1",
+    "mime-types": "2.1.15"
   }
 }
