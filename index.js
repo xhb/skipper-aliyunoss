@@ -9,7 +9,7 @@ var concat = require('concat-stream');
 var _ = require('lodash');
 _.defaultsDeep = require('merge-defaults');
 var oss = require('ali-oss');
-var mime = require('mime');
+var mime = require('mime-types');
 var co = require('co');
 
 /**
