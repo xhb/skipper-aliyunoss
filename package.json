@@ -1,5 +1,5 @@
 {
-  "name": "@walkthechat/skipper-aliyunoss",
+  "name": "@xhb/skipper-aliyunoss",
   "version": "0.1.2",
   "description": "Streaming file uploads to Aliyun OSS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/WalktheChat/skipper-aliyunoss.git"
+    "url": "git://github.com/xhb/skipper-aliyunoss.git"
   },
   "keywords": [
     "aliyun",
@@ -20,12 +20,12 @@
     "sails",
     "express"
   ],
-  "author": "Mike McNeil // Qiong Wu",
+  "author": "xhb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WalktheChat/skipper-aliyunoss/issues"
+    "url": "https://github.com/xhb/skipper-aliyunoss/issues"
   },
-  "homepage": "https://github.com/WalktheChat/skipper-aliyunoss",
+  "homepage": "https://github.com/xhb/skipper-aliyunoss",
   "devDependencies": {
     "skipper-adapter-tests": "~1.5.8"
   },
@@ -37,8 +37,5 @@
     "lodash": "4.17.11",
     "merge-defaults": "0.1.4",
     "mime": "2.3.1"
-  },
-  "optionalDependencies": {
-    "travis-encrypt": "^2.1.1"
   }
 }
